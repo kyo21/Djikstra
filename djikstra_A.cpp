@@ -14,6 +14,8 @@ map<string, string> parents;
 set<string> blacklist;
 
 
+void cetak_jarak(){
+
 
 //this is your code
 
