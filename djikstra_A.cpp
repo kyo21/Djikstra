@@ -16,7 +16,7 @@ set<string> blacklist;
 
 void cetak_jarak(){
 
-//TODO list one two
+//TODO List here and there
 
 }
 string pilih_node_bobot_terendah(map<string, int> cost){
