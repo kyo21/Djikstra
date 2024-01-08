@@ -15,7 +15,7 @@ set<string> blacklist;
 
 
 void cetak_jarak(){
-
+//TODO List here
 //TODO List here and there
 
 }
