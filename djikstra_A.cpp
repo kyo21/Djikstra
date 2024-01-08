@@ -17,7 +17,7 @@ set<string> blacklist;
 void cetak_jarak(){
 
 
-//this is your code and
+//this is your code and x
 
 }
 string pilih_node_bobot_terendah(map<string, int> cost){
